@@ -1,2 +1,0 @@
-# Misc
-Coisas várias
